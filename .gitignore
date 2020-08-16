@@ -87,8 +87,6 @@ StyleCopReport.xml
 *.tlh
 *.tmp
 *.tmp_proj
-*.csproj
-*.sln
 *.log
 *.vspscc
 *.vssscc
